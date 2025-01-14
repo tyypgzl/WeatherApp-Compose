@@ -1,9 +1,9 @@
 # Weather App
 
-## Platform: Android
-## Tech: Jetpack Compose
+- Platform: Android
+- Tech: Jetpack Compose
 
-## Packages
-#### Retrofit
-#### GSON Converter
-#### Coil(AyncImage)
+- Packages
+  - Retrofit
+  - GSON Converter
+  - Coil(AyncImage)
